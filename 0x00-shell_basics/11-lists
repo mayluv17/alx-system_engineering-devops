@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a;cd ..;ls -a;cd /root;ls -a
+ls -a -l;cd ..;ls -a -l;cd /root;ls -a -l
